@@ -270,7 +270,8 @@ namespace SimplexApi.Classes
                 // Calcula o valor total da restrição com base nos valores dela e valores finais das variáveis
                 decimal sum = 0;
                 foreach (RestrictionVariableData data in restriction.RestrictionData)
-                    sum += data.RestrictionVariable.FinalValue * data.RestrictionValue;
+                    sum += simplexData.Problem.Variables.First(v => v.Value == data.RestrictionVariable.Value).FinalValue * data.RestrictionValue;
+
 
                 restriction.RestrictionFinalSum = sum;
 

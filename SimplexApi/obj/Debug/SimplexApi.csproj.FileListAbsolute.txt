@@ -31,3 +31,36 @@ c:\users\isabella.riquetti\documents\visual studio 2015\Projects\SimplexApi\Simp
 c:\users\isabella.riquetti\documents\visual studio 2015\Projects\SimplexApi\SimplexApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 c:\users\isabella.riquetti\documents\visual studio 2015\Projects\SimplexApi\SimplexApi\obj\Debug\SimplexApi.dll
 c:\users\isabella.riquetti\documents\visual studio 2015\Projects\SimplexApi\SimplexApi\obj\Debug\SimplexApi.pdb
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\ApplicationInsights.config
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\roslyn\csc.exe
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\roslyn\vbc.exe
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\SimplexApi.dll.config
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\SimplexApi.dll
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\SimplexApi.pdb
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\Microsoft.AI.Web.dll
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\Microsoft.AI.Web.xml
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\obj\Debug\SimplexApi.csprojResolveAssemblyReference.cache
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\obj\Debug\SimplexApi.dll
+C:\Users\Isabella\Documents\Visual Studio 2017\Projects\Git Source\SimplexApi\SimplexApi\obj\Debug\SimplexApi.pdb
